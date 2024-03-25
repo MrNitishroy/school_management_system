@@ -1,0 +1,36 @@
+.AuthPage{
+    width: 100vw;
+    height: 100vh;
+    display: flex   ;
+    align-items: center;
+    justify-content: center;
+    background-color: #f5f5f5;
+}
+
+.AuthBox{
+    padding: 20px 20px;
+    width: 450px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 1px 1px 10px 1px #dcdcdc;
+}
+
+.heading1{
+font-size: 25px;
+font-weight: 600;
+color: #1E1E1E;
+
+
+}
+
+.lable{
+    color: grey;
+}
+
+.TextFeild{
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 0 10px;
+    margin: 10px 0;
+}
