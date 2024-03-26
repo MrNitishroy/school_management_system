@@ -1,0 +1,30 @@
+.navbox{
+    background-color: #4B4B4B;
+    color: white;
+    padding: 10px;
+    
+}
+
+.menubox{
+    display: flex;
+}
+.menu{
+    /* margin: 10px; */
+    padding: 5px 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    list-style: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.menu:hover{
+    background-color: #333;
+    transition: 1s;
+}
+
+.mainlogo{
+    width: 100px;
+    height: 24px
+}

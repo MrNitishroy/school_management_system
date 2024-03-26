@@ -28,7 +28,6 @@ function AuthPage() {
             any task inside the system{" "}
           </p>
           <br />
-          <br />
             {isLogin ? <Login toggelAuth={toggelAuth} /> : <Singup toggelAuth={toggelAuth} />}
         
        
